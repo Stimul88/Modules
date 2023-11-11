@@ -3,7 +3,6 @@ import character from './domain.js';
 export default class Game {
   start() {
     console.log('game started');
-    console.log(character);
   }
 }
 
